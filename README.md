@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi. i'm Joseph anso
 
-<!--
-**Joseph-904/Joseph-904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+I am a cyber security student at NIIT port Hacourt, passionate about offencive and defencive  cyber security
+I enjoybuilding practical cybersecurity projrct that demonstarte real-world skill in:
+- Penitration Tasting
+- Log Analysis
+- Malware Analysis
+- Digital Furrency
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Governance Risk and Compliance
+  
+## Projects
+| project | description | repository |
+|---------|-------------|------------|
+| OSINT Investigation | description conducted an OSINT investigation on a target organisation | coming soon | 
+|Log Analysis | Analized IIS and Windows Event  Log | coming soon |
 
-Here are some ideas to get you started:
+## Skills 
+### Operating systems 
+- Windows
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Networking 
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+- TELNET
+
+### Cybersecurity Tools
+-Nmap 
+- Wireshark
+- Burbsuite
+- Splunk
+- Snort
+- Suricata
+- ELK
+- GIT
+- GitHub 
+
+## Certification
+- ISC2 CC (In progress)
+- CompTIA Security+ (In progress)
+
+## EDUCATION 
+- NIIT port Hacourt: cybersecurity program
+
+## Contact 
+- EMAIL: ansojoseph1@gmail.com
+- LinkedIn: 
