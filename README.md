@@ -17,7 +17,7 @@ I enjoybuilding practical cybersecurity projrct that demonstarte real-world skil
 |---------|-------------|------------|
 | OSINT Investigation | description conducted an OSINT investigation on a target organisation | www.github.com/Joseph-904 | 
 | Log Analysis | Analized IIS and Windows Event  Log | coming soon |
-| Malware Analysis | not yet done | www.github.com/malware Analysis |
+| Malware Analysis | not yet done | www.github.com/Joseph-904/malware Analysis |
 
 ## Skills 
 ### Operating systems 
