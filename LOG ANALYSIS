@@ -1,0 +1,64 @@
+# HI I'm Joseph anso
+
+## My Project
+| Project | Description | Repository |
+|---------|-------------|------------|
+| OSINT Investigation | Decription Conducting OSINT Investigation On A Target File | www.github.com/Joseph-904
+| log Analysis | Analyzed IIS And Windows Event Log | coming soon | 
+
+### File 1: Access-1.log
+1. How Many "GET" Requested Were Logged?
+   - The GET Requested that were logged are =127
+2. How Many Unique Staatus Code Were Returneed By The Server?
+   - The status code that were returned by the server are= 156
+3. How Many HHTP Tunneling Attempt Were Made?
+   - The HTTP tunneling attempt were made are =10
+4. Note The Status Code And Explain?
+   - 200- ok(request succseeful)
+   - 304- Not modified(cached copy used)
+   - 400- Bad request(invalid request
+   - 404- Not found(reasource does not exist)
+5. How Many Entry Have Completely Invalid Requested Lines Containing Raw Binary Data?
+     - = 0
+6. What Are Common Reason You May See This?
+   - client attempted HTTPS on an HTTP port 
+   - TLS/SSL handshake sent to a web server expecting plain HTTP 
+   - port scanner and vulnerability scanner 
+7. How Many Unique User Were Observed, Excluding Empty Or Missing User Agent?
+       - = 55
+8. How Many Request Were Made By Firefox?
+   - =11
+
+
+### FILE 2: APACHE_LOG
+1. How Many Lines Are There In Apache file In Total?
+   - = 10,000
+2. How many Unique IP Are There In The File?
+   - =1,753
+3. What is the IP address from which the server got more traffic from?
+   - = 482 66.249.73.135
+4. What is the URL which I most visited?
+   - =807 /favicon.ico
+5. What is the total count of request which got a 200 response?
+   - = 9,126
+
+### FILE 3: ACCESS-2.LOG
+1.  How many GET request were made
+   - =60
+2.	How many unique IP addresses were made?
+    - =48
+3.	How many different IP addresses reached the server?
+    - =48
+4.	How many request yielded a 200 status? =19
+5.	How many request yielded a 400 status? =38
+6.	What IP address rang at the door bell?
+    -  =4 80.82.70.24
+7.	What version of the Googlebot visit the website
+     -  =Googlebot/2.1
+8.	What was the most frequent version of Firefox used for browsing the website?
+    -  =9 Firefox 31.0
+9.	What is the most common HTTPS method used?
+    -  =60 GET 15 connect
+
+
+
